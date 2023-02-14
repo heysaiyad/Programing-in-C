@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
     int n = 4, temp; 
     int arr[4][4] = {{1,1,1,1},{2,2,2,2},{3,3,3,3},{4,4,4,4}};
