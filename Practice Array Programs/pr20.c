@@ -1,0 +1,1 @@
+// . Write a program in ‘C” to rearrange the array in alternating positive and negative items
